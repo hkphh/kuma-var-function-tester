@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "KUMA Function Tester",
+  "version": "0.2",
+  "description": "Тестер функций переменных KUMA",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "KUMA Function Tester"
+  },
+  "permissions": []
+}
